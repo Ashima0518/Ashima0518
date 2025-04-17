@@ -34,7 +34,7 @@
 
 - 🔍 Focused on backend APIs, frontend performance, and AI-powered solutions.
 - 💼 Previously at **Taboola**, handled high-profile publishers and boosted client KPIs using full-stack engineering.
-- 📊 Interested in GenAI, microservices, and end-to-end product development.
+- 📊 Interested in LLM, GenAI, microservices, and end-to-end product development.
 
 
 ## 🛠️ Tech Stack
