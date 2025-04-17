@@ -22,7 +22,7 @@
 
 # Hi there, I’m Ashima Sharma 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/aashimasharma050?label=Follow&style=social)](https://github.com/Ashima0518/)
+[![GitHub followers](https://img.shields.io/github/followers/Ashima0518?label=Follow&style=social)](https://github.com/Ashima0518/)
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
