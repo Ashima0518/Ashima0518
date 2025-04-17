@@ -20,7 +20,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
-# Hi there, I’m Ashima Sharma <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"/>
+# Hi there, I’m Ashima Sharma <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>
 
 [![GitHub followers](https://img.shields.io/github/followers/Ashima0518?label=Follow&style=social)](https://github.com/Ashima0518/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=flat-square&logo=internet-archive&logoColor=white)](https://aashima.vercel.app/)
