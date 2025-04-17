@@ -2,14 +2,10 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/aashimasharma050?label=Follow&style=social)](https://github.com/aashimasharma050)
 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+
 ## 🔭 About Me
 I’m a Software Developer and Teaching Assistant with a passion for building scalable web apps and teaching Data Science. Currently guiding CS 685: Foundations of Data Science at UAB, and formerly a Python microservices engineer at Cybhop Tech and Software Engineer at Taboola.
-
-<br>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=devSouvik&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
-
-</br>
 
 ## 🛠️ Tech Stack
 
