@@ -31,7 +31,7 @@ I’m a Software Developer and Teaching Assistant with a passion for building sc
 ## 📫 Let’s Connect
 
 - 📧 aashimasharma050@gmail.com  
-- 🔗 [Portfolio](https://your‑portfolio.link) • [LinkedIn](https://linkedin.com/in/aashimasharma050) • [GitHub](https://github.com/aashimasharma050)
+- 🔗 [Portfolio](https://aashima.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/ashima-sharma-2a3147171/)
 
 ---
 
