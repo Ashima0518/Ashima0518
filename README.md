@@ -30,14 +30,26 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 ## 🔭 About Me
-I’m a Software Developer and Teaching Assistant with a passion for building scalable web apps and teaching Data Science. Currently guiding CS 685: Foundations of Data Science at UAB, and formerly a Python microservices engineer at Cybhop Tech and Software Engineer at Taboola.
+🚀 I’m a passionate Software Developer with over 4 years of experience across scalable backend systems, interactive frontends, and machine learning applications. Currently pursuing my MS in Computer Science at the University of Alabama at Birmingham.
+
+- 🔍 Focused on backend APIs, frontend performance, and AI-powered solutions.
+- 💼 Previously at **Taboola**, handled high-profile publishers and boosted client KPIs using full-stack engineering.
+- 📊 Interested in GenAI, microservices, and end-to-end product development.
+
 
 ## 🛠️ Tech Stack
 
 - **Languages & Frameworks:** Python, Go, Java, C++, JavaScript/TypeScript, React, Next.js, Angular, Node.js, Flask, Express  
 - **Databases:** MongoDB, PostgreSQL, MySQL, Vertica  
 - **DevOps & CI/CD:** Docker, Kubernetes, AWS (Lambda, S3), Jenkins, Kafka  
-- **Other Tools:** Git, GraphQL, REST APIs, Swagger, Postman, Socket.io, TailwindCSS, Bootstrap, Tableau, Grafana  
+- **Other Tools:** Git, GraphQL, REST APIs, Swagger, Postman, Socket.io, TailwindCSS, Bootstrap, Tableau, Grafana
+
+
+## 🤖 Machine Learning / AI
+
+- **Languages & Libraries:** Python, TensorFlow, Keras, Scikit-learn, OpenCV, PyTorch, Pandas, NLTK, Sentence Transformers, FAISS, Whisper
+- **Concepts:** Deep Learning, NLP, Semantic Search, Content Summarization, Vector Embeddings, Time Series Forecasting, LLMs, GenAI
+- **Tools:** Jupyter, Streamlit, Docker (for ML app deployment)
 
 ## 💼 Experience Highlights
 
