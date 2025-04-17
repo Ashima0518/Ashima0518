@@ -23,6 +23,9 @@
 # Hi there, I’m Ashima Sharma 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/Ashima0518?label=Follow&style=social)](https://github.com/Ashima0518/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=flat-square&logo=internet-archive&logoColor=white)](https://aashima.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-linkedin-id/](https://www.linkedin.com/in/ashima-sharma-2a3147171/))
+
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
