@@ -54,7 +54,7 @@
 
 ## 💼 Experience Highlights
 
-- **Teaching Assistant** · University of Alabama at Birmingham (Aug 2024 – Present)  
+- **Teaching Assistant** · University of Alabama at Birmingham (Aug 2024 – May 2025)  
   – CS 667 Machine Learning & CS 685 Foundations of Data Science (total 320+ students)  
 - **Software Developer** · Cybhop Tech LLP (Apr 2023 – Feb 2024)  
   – Built Python microservices, JWT auth for 50k+ users, optimized MongoDB queries (+30%)  
