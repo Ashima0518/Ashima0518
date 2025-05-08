@@ -31,7 +31,7 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 ## 🔭 About Me
-🚀 I’m a passionate Software Developer with over 4 years of experience across scalable backend systems, interactive frontends, and machine learning applications. Currently pursuing my MS in Computer Science at the University of Alabama at Birmingham.
+🚀 I’m a passionate Software Developer with over 4 years of experience across scalable backend systems, interactive frontends, and machine learning applications. Completed my MS in Computer Science at the University of Alabama at Birmingham.
 
 - 🔍 Focused on backend APIs, frontend performance, and AI-powered solutions.
 - 💼 Previously at **Taboola**, handled high-profile publishers and boosted client KPIs using full-stack engineering.
