@@ -23,9 +23,12 @@
 
 # Hi there, I’m Ashima Sharma <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>
 
-[![GitHub followers](https://img.shields.io/github/followers/Ashima0518?label=Follow&style=social)](https://github.com/Ashima0518/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=flat-square&logo=internet-archive&logoColor=white)](https://aashima.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-linkedin-id/](https://www.linkedin.com/in/ashima-sharma-2a3147171/))
+<!-- Badges -->
+<p>
+  <img src="https://img.shields.io/github/followers/Ashima0518?label=Followers&style=flat" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Ashima0518?affiliations=OWNER%2CCOLLABORATOR&label=Stars&style=flat" alt="Total Stars" />
+  <img src="https://komarev.com/ghpvc/?username=Ashima0518&style=flat" alt="Profile Views" />
+</p>
 
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
@@ -76,3 +79,42 @@
 ---
 
 *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
+
+---
+
+<!-- ====== STATS SECTION ====== -->
+<div align="center">
+
+<!-- Title -->
+<h2>📊 My GitHub at a Glance</h2>
+
+
+<!-- Two-column layout: Stats + Top Languages -->
+<table>
+  <tr>
+    <td>
+      <!-- Overall contributions & stats -->
+      <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Ashima0518&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&hide=issues,contribs&custom_title=Ashima%20Sharma%27s%20GitHub%20Stats&cache_seconds=86400">
+  <img alt="GitHub Stats — Stars, Commits, PRs only" src="https://github-readme-stats.vercel.app/api?username=Ashima0518&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&hide=issues,contribs&custom_title=Ashima%20Sharma%27s%20GitHub%20Stats&cache_seconds=86400">
+</picture>
+    </td>
+    <td>
+      <!-- Most used languages -->
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashima0518&layout=compact&langs_count=8&theme=transparent&hide_border=true&cache_seconds=86400">
+        <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashima0518&layout=compact&langs_count=8&hide_border=true&cache_seconds=86400">
+      </picture>
+    </td>
+  </tr>
+</table>
+
+<!-- Streak (nice visual of continuous contributions) -->
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Ashima0518&theme=transparent&hide_border=true">
+    <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Ashima0518&hide_border=true">
+  </picture>
+</p>
+
+---
