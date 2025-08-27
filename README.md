@@ -109,6 +109,6 @@
   </tr>
 </table>
 
-![Contributions](https://img.shields.io/badge/Contributions-130-brightgreen?style=for-the-badge)
+![Contributions](https://img.shields.io/badge/Contributions-130+-brightgreen?style=for-the-badge)
 
 ---
