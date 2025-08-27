@@ -110,5 +110,7 @@
 </table>
 
 ![Contributions](https://img.shields.io/badge/Contributions-130+-brightgreen?style=for-the-badge)
+![Profile views](https://komarev.com/ghpvc/?username=Ashima0518&style=for-the-badge)
+
 
 ---
