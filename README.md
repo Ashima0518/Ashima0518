@@ -109,14 +109,6 @@
   </tr>
 </table>
 
-<!-- Streak (nice visual of continuous contributions) -->
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Ashima0518&theme=transparent&hide_border=true">
-    <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Ashima0518&hide_border=true">
-  </picture>
-</p>
-
 ![Contributions](https://img.shields.io/badge/Contributions-130-brightgreen?style=for-the-badge)
 
 ---
